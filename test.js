@@ -11,3 +11,4 @@ for test
 change on cloud
 change on cloud
 change on cloud
+* double channel sync test master
