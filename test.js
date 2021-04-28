@@ -18,3 +18,4 @@ local machine change
 local machien change
 local machine change
 local machine change
+* double channel test 
